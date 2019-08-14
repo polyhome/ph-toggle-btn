@@ -1,0 +1,8 @@
+{
+	"_id": "ph-toggle-btn",
+    "srcType": "module",
+    "state": {
+      "toggled": "boolean"
+    },
+    "triggers": ["toggle"]
+}
